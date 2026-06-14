@@ -89,7 +89,7 @@ const const const pi = 3.14!
 
 ## Naming
 
-Both variables and constants can be named with any Unicode character or string, but they can't end with `n't` or `n` because that would conflict with the highly intuitive 'not' operator.
+Both variables and constants can be named with any Unicode character or string.
 
 ```java
 const const letter = 'A'!
